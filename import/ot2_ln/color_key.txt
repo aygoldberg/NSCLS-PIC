@@ -1,0 +1,17 @@
+gene	group	color
+	CD8_T	darkseagreen2
+	Cycling_T	seagreen4
+	ot2	dodgerblue
+	Tht_ot2	royalblue3
+	Naive_T	powderblue
+	migDC	#E675E4
+	B	cyan
+	cDC1	#E9257E
+Bhlhe40	migDC_2	#C811C5
+Cd209a	cDC2	indianred3
+Sirpa	Monocytes	peru
+Lyz2	Monocytes	peru
+C1qb	Mac	chocolate4
+Siglech	pDC	#F98B00
+Gzmb	Cyto_T	#1EC51E
+Pkm	Tht_ot2	royalblue3

@@ -1,0 +1,15 @@
+gene	group	color
+	CD8_T_Ccl5	#327104
+	T_naive	powderblue
+	CD8_T	darkseagreen2
+	T_Vim	seagreen4
+	T_ot2	dodgerblue
+	T_ot2_act	royalblue3
+	migDC	#E675E4
+	Mac	chocolate4
+	pDC	#F98B00
+	cDC1	#E9257E
+	B	cyan
+	Monocytes	peru
+Cd209a	cDC2	indianred3
+Kdr	Fibro	gold

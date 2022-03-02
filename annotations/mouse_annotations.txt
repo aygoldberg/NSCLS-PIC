@@ -1,0 +1,15 @@
+group	annotation
+Naive_T	T
+Cycling_T	T
+CD8_T	T
+Cyto_T	T
+ot2	T
+Tht_ot2	T
+Monocytes	Myeloid
+Mac	Myeloid
+cDC2	Myeloid
+cDC1	Myeloid
+migDC	Myeloid
+migDC_2	Myeloid
+pDC	Myeloid
+B	Other

@@ -1,0 +1,25 @@
+	color	group	type
+T_migratory	#E2E8DA	Migratory T	T
+T_naive	#B0C399	Naive T	T
+T_naive_proliferation	#767F67	Proliferating T	T
+T_CD4_activated	dodgerblue	CD4+ activated T	T
+T_CD4_memory	#B8C6E9	CD4+ memory T	T
+T_CD8	#9AC5B9	CD8+ T	T
+T_CD8_Cyto	#00738C	CTL	T
+T_CD8_Exhausted	#00CDCD	CD8+ dysfunctional T	T
+Tht	#3437E7	Tht	T
+T_CD4_reg	#036C00	Treg	T
+NK	purple	NCAM1+ NK	Myeloid
+NK_CX3CR1	#833A83	CX3CR1+ NK	Myeloid
+Monocytes_VCAN	tomato	VCAN+ Monocytes	Myeloid
+Monocytes_CD31	darksalmon	CD31+ Monocytes	Myeloid
+MonMac	#B09C6F	MonMac	Myeloid
+MAC_MMP9	chocolate4	MMP9+ TAM	Myeloid
+TAM_TREM2	peru	Mreg Mac	Myeloid
+MonMac_CXCL10	#6C0F03	CXCL10+ MonMac	Myeloid
+MoDC	#FDCECD	MoDC	Myeloid
+cDC2	indianred3	cDC2	Myeloid
+cDC1	#E9257E	cDC1	Myeloid
+MigDC	#E675E4	mregDC	Myeloid
+Mast_cells	#D6DD38	Mast_cells	Other
+B_Plasma	cyan	B_Plasma	Other

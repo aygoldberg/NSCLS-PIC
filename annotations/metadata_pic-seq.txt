@@ -1,0 +1,22 @@
+Amp.Batch.ID	Seq.Batch.ID	Batch.Set.ID	Description	geneitcs	date	sorting.scheme	PIC	tissue	treatment	replicate	timepoint
+AB6034	SB304	CD4_Co-culture_T_only	CD4_Co-culture_T_only	Ova+WT-DC+OT-II-Tcells	20181111	Trbc+	Singlets	in vitro	OVA + LPS		20h
+AB6035	SB304	CD4_Co-culture_DC_only	CD4_Co-culture_DC_only_1	Ova+WT-DC+OT-II-Tcells	20181111	Cd11c+	Singlets	in vitro	OVA + LPS		20h
+AB6036	SB304	CD4_Co-culture_DC_only	CD4_Co-culture_DC_only_2	Ova+WT-DC+OT-II-Tcells	20181111	Cd11c+	Singlets	in vitro	OVA + LPS		20h
+AB6039	SB304	T_mono-culture_T_only	T_mono-culture_T_only_1	Ova+WT-DC+OT-II-Tcells	20181111	Trbc+	Singlets	in vitro	OVA + LPS T only		20h
+AB6040	SB304	T_mono-culture_T_only	T_mono-culture_T_only_2	Ova+WT-DC+OT-II-Tcells	20181111	Trbc+	Singlets	in vitro	OVA + LPS T only		20h
+AB6203	SB309	CD4_Co-culture_20h_DC	CD4_Co-culture_20h_DC_1	Ova+WT-DC+OT-II-Tcells	20181211	Cd11c+	Singlets	in vitro	OVA + LPS		20h
+AB6204	SB309	CD4_Co-culture_20h_DC	CD4_Co-culture_20h_DC_2	Ova+WT-DC+OT-II-Tcells	20181211	Cd11c+	Singlets	in vitro	OVA + LPS		20h
+AB6207	SB309	CD4_Co-culture_20h_DC	CD4_Co-culture_20h_DC_3	Ova+WT-DC+OT-II-Tcells	20181211	Cd11c+	Singlets	in vitro	OVA + LPS		20h
+AB6208	SB309	CD4_Co-culture_20h_T	CD4_Co-culture_20h_T_1	Ova+WT-DC+OT-II-Tcells	20181211	Trbc+	Singlets	in vitro	OVA + LPS		20h
+AB6209	SB309	CD4_Co-culture_20h_T	CD4_Co-culture_20h_T_2	Ova+WT-DC+OT-II-Tcells	20181211	Trbc+	Singlets	in vitro	OVA + LPS		20h
+AB6210	SB309	CD4_Co-culture_20h_T	CD4_Co-culture_20h_T_3	Ova+WT-DC+OT-II-Tcells	20181211	Trbc+	Singlets	in vitro	OVA + LPS		20h
+AB6211	SB309	mono-culture_20h_T	mono-culture_20h_T_2	Ova+WT-DC+OT-II-Tcells	20181211	Trbc+	Singlets	in vitro	OVA + LPS T only		20h
+AB6214	SB309	CD4_Co-culture_20h_T	CD4_Co-culture_20h_T_4	Ova+WT-DC+OT-II-Tcells	20181211	Trbc+	Singlets	in vitro	OVA + LPS		20h
+AB6353	SB314	PBS_inj_DC	PBS3_inj_DC_1	WT	20190108	TCRb+	Singlets	LN	PBS	1	48h
+AB6359	SB314	PBS_inj_Tcells_until_K	PBS2_inj_Tcells_until_K	WT	20190108	TCRb+	Singlets	LN	PBS	2	48h
+AB6409	SB319	Nb_inj_Tcells_Tigit	Nb_inj_Tcells_Tigit_1	B6	20190207	Tigit+ Trbc+	Singlets	LN	helminths		48h
+AB6411	SB319	Nb_inj_Tcells_Tigit	Nb_inj_Tcells_Tigit_2	B6	20190207	Tigit+ Trbc+	Singlets	LN	helminths		48h
+AB6421	SB319	Nb_inj_Tcells_ICOS	Nb_inj_Tcells_ICOS_1	B6	20190207	Icos+ Trbc+	Singlets	LN	helminths		48h
+AB6422	SB319	Nb_inj_Tcells_ICOS	Nb_inj_Tcells_ICOS_2	B6	20190207	Icos+ Trbc+	Singlets	LN	helminths		48h
+AB6507	SB322	PBS_TCRb	PBS_TCRb_1	WT	20190308	TCRb+	Singlets	LN	PBS	4	48h
+AB6508	SB322	PBS_TCRb	PBS_TCRb_2	WT	20190308	TCRb+	Singlets	LN	PBS	4	48h

@@ -1,0 +1,265 @@
+	ct	umicount	annotation
+Trac	1	14207	Activation I
+Srgn	1	4155	Activation I
+Thy1	1	3607	Activation I
+Cd3d	1	3584	Activation I
+Trbc1	1	3217	Activation I
+Lat	1	2825	Activation I
+Cd247	1	2609	Activation I
+Cd4	1	2443	Activation I
+Ncl	1	1919	Activation I
+Slamf6	1	1635	Activation I
+Ubl5	1	1384	Activation I
+Nfatc1	1	1353	Activation I
+Tbc1d4	1	1344	Activation I
+Rilpl2	1	1150	Activation I
+Sdf4	1	1148	Activation I
+Ptms	1	1126	Activation I
+Eif3l	1	856	Activation I
+Hif1a	1	854	Activation I
+Maf	1	850	Activation I
+Bhlhe40	1	774	Activation I
+Dusp5	1	742	Activation I
+Ndufa1	1	722	Activation I
+Arl4c	1	701	Activation I
+AI662270	1	693	Activation I
+Btla	1	634	Activation I
+Eea1	1	544	Activation I
+Timp2	1	542	Activation I
+Usmg5	1	538	Activation I
+Tnfrsf9	1	503	Activation I
+Cd200	1	492	Activation I
+Vmp1	1	464	Activation I
+Hpf1	1	425	Activation I
+Tigit	1	400	Activation I
+Pdcd1	1	351	Activation I
+Slc29a1	1	345	Activation I
+Unc13d	1	282	Activation I
+Cd83	1	280	Activation I
+Lag3	1	279	Activation I
+Angptl2	1	273	Activation I
+Pou2af1	1	241	Activation I
+Ccdc28b	1	237	Activation I
+Cd8b1	1	229	Activation I
+Egr3	1	192	Activation I
+Litaf	1	180	Activation I
+Tceanc2	1	174	Activation I
+Lockd	1	143	Activation I
+Scyl1	1	122	Activation I
+Gcnt1	1	120	Activation I
+Carhsp1	1	110	Activation I
+Cish	1	106	Activation I
+AW112010	2	1021	Tumor I
+Id2	2	620	Tumor I
+Tnfrsf4	2	531	Tumor I
+Tnfrsf18	2	509	Tumor I
+Gzmb	2	196	Tumor I
+Plac8	2	185	Tumor I
+Il2ra	2	161	Tumor I
+Cxcr6	2	128	Tumor I
+Ifitm3	2	111	Tumor I
+Actb	3	86491	
+Tmsb4x	3	35709	
+Coro1a	3	9946	
+Rac2	3	8667	
+Ifi27l2a	3	7360	
+Limd2	3	4763	
+Sh3kbp1	3	2458	
+Ctse	3	1314	
+Ptpn1	3	1085	
+Ltb	3	955	
+Psmb10	3	760	
+Capg	3	605	
+Batf	3	486	
+Elovl1	3	262	
+Ldha	4	3920	Activation II
+Ybx1	4	3892	Activation II
+Pkm	4	2791	Activation II
+Eif5a	4	2423	Activation II
+Hnrnpab	4	2138	Activation II
+Aldoa	4	1924	Activation II
+Mif	4	1377	Activation II
+Il2rb	4	958	Activation II
+Nme1	4	949	Activation II
+Pgk1	4	764	Activation II
+Atp5g1	4	763	Activation II
+Ybx3	4	743	Activation II
+Mcm6	4	713	Activation II
+Cdk4	4	695	Activation II
+Ndufs6	4	642	Activation II
+Ctsd	4	625	Activation II
+Tpi1	4	567	Activation II
+Cdk2ap1	4	566	Activation II
+Pebp1	4	559	Activation II
+Srsf7	4	541	Activation II
+Dbi	4	449	Activation II
+Mcm5	4	440	Activation II
+Romo1	4	432	Activation II
+Vps25	4	411	Activation II
+Cox17	4	407	Activation II
+Uba2	4	394	Activation II
+Ipo5	4	393	Activation II
+Ncaph2	4	361	Activation II
+Fam162a	4	333	Activation II
+Pgp	4	274	Activation II
+Marcksl1	4	260	Activation II
+Adsl	4	250	Activation II
+Asf1b	4	230	Activation II
+Nrgn	4	220	Activation II
+Tiam1	4	202	Activation II
+Dctpp1	4	200	Activation II
+Synpo	4	182	Activation II
+Ints8	4	177	Activation II
+Ddit3	4	151	Activation II
+Alcam	4	145	Activation II
+Fmc1	4	137	Activation II
+Rai1	4	131	Activation II
+S100a10	5	3650	Tumor II
+Vim	5	3603	Tumor II
+Lgals1	5	2670	Tumor II
+Crip1	5	2128	Tumor II
+Ly6a	5	1609	Tumor II
+S100a11	5	1173	Tumor II
+S100a6	5	1039	Tumor II
+Anxa2	5	911	Tumor II
+S100a4	5	572	Tumor II
+Tmpo	6	796	
+Srsf2	6	774	
+Eif3b	6	611	
+Rrm2	6	497	
+Dnmt1	6	466	
+Ccna2	6	388	
+Hist1h1d	6	348	
+Atad2	6	339	
+Ncapd2	6	242	
+Tk1	6	226	
+Dbf4	6	224	
+Uhrf1	6	194	
+Tcf19	6	178	
+Kif23	6	155	
+Knl1	6	135	
+Ckap2l	6	131	
+Fbxo5	6	128	
+Ncapg2	6	127	
+Clspn	6	124	
+Cks2	6	123	
+Prc1	6	122	
+Chaf1a	6	109	
+C330027C09Rik	6	102	
+Ptma	7	3142	Cell cycle
+Tubb5	7	2642	Cell cycle
+Hist1h2ao	7	2534	Cell cycle
+Tuba1b	7	2460	Cell cycle
+Hist1h1e	7	1996	Cell cycle
+Ran	7	1701	Cell cycle
+Dek	7	1563	Cell cycle
+Pcna	7	1208	Cell cycle
+Top2a	7	1192	Cell cycle
+Hist1h1b	7	971	Cell cycle
+Mki67	7	940	Cell cycle
+Stmn1	7	857	Cell cycle
+Hist1h4d	7	853	Cell cycle
+Dut	7	570	Cell cycle
+Rrm1	7	424	Cell cycle
+Mir25	7	398	Cell cycle
+Hist1h2ae	7	351	Cell cycle
+Lig1	7	334	Cell cycle
+Pclaf	7	266	Cell cycle
+Tyms	7	219	Cell cycle
+Cdk1	7	213	Cell cycle
+Hist1h1a	7	193	Cell cycle
+Cdkn2c	7	150	Cell cycle
+Diaph3	7	125	Cell cycle
+Kif4	7	119	Cell cycle
+Aurkb	7	115	Cell cycle
+Tcf7	8	6695	Naive
+Ets1	8	4263	Naive
+Smc4	8	4124	Naive
+Lars2	8	4064	Naive
+Jak1	8	3064	Naive
+Ccr7	8	2671	Naive
+Izumo1r	8	2518	Naive
+Zfp36l1	8	2268	Naive
+Junb	8	2112	Naive
+Pdcd4	8	2091	Naive
+Icos	8	2008	Naive
+Bcl11b	8	1856	Naive
+Tnfaip3	8	1767	Naive
+Lef1	8	1755	Naive
+Prrc2c	8	1622	Naive
+Rgs2	8	1249	Naive
+Macf1	8	1186	Naive
+Dusp1	8	1163	Naive
+Txnip	8	1154	Naive
+Fos	8	1128	Naive
+Ikzf2	8	968	Naive
+Ctla4	8	928	Naive
+Hmgb2	9	2590	Cell cycle
+H2afz	9	856	Cell cycle
+Tubb4b	9	709	Cell cycle
+Cenpa	9	645	Cell cycle
+Smc2	9	579	Cell cycle
+Ube2c	9	562	Cell cycle
+H2afx	9	432	Cell cycle
+Tuba1c	9	421	Cell cycle
+Lmnb1	9	384	Cell cycle
+Birc5	9	380	Cell cycle
+Ccnb2	9	370	Cell cycle
+Nusap1	9	311	Cell cycle
+Kif11	9	302	Cell cycle
+Cdca8	9	282	Cell cycle
+Racgap1	9	263	Cell cycle
+Tpx2	9	240	Cell cycle
+Kif15	9	226	Cell cycle
+Incenp	9	217	Cell cycle
+Tacc3	9	217	Cell cycle
+Cenpe	9	206	Cell cycle
+Spc24	9	190	Cell cycle
+Cenpf	9	179	Cell cycle
+Ccdc34	9	167	Cell cycle
+Plk1	9	146	Cell cycle
+Ccnb1	9	141	Cell cycle
+Ncaph	9	140	Cell cycle
+Spc25	9	135	Cell cycle
+Cdc20	9	129	Cell cycle
+Ndc80	9	123	Cell cycle
+Kif20a	9	121	Cell cycle
+Kif22	9	116	Cell cycle
+Bub1b	9	112	Cell cycle
+Cep55	9	101	Cell cycle
+Bpifa2	10	766	
+Smr3a	10	442	
+Nkg7	11	519	
+Ccl5	11	384	
+Eomes	11	348	
+Ly6c2	11	302	
+Trdc	11	258	
+Slamf7	11	188	
+Ctla2a	11	125	
+Ctsw	11	123	
+Plek	11	106	
+Gzmk	11	105	
+Ms4a4b	12	5291	Naive II
+Ms4a6b	12	3281	Naive II
+Ccnd2	12	2839	Naive II
+Sell	12	2704	Naive II
+Stat1	12	2315	Naive II
+Samhd1	12	1592	Naive II
+Klf2	12	1424	Naive II
+Npc2	12	1410	Naive II
+Mndal	12	1389	Naive II
+S1pr1	12	1243	Naive II
+Slfn1	12	1076	Naive II
+Ifi47	12	895	Naive II
+Slfn5	12	655	Naive II
+Ifi206	12	564	Naive II
+Isg15	12	499	Naive II
+Il7r	12	456	Naive II
+Rnf213	12	375	Naive II
+Ifit1	12	241	Naive II
+Tbrg4	12	115	Naive II
+Ifit3	12	104	Naive II
+Cd74	13	290	
+H2-Aa	13	155	
+H2-Ab1	13	110	
+H2-Eb1	13	108	

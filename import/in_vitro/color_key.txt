@@ -1,0 +1,8 @@
+gene	group	color
+	DC	indianred
+Trbc2	T	powderblue
+Ldha	Activated_T	#8193BD
+Aldoa	Activated_T	#8193BD
+Fscn1	DC	#E675E4
+Tnfrsf4	Tht-like	#3437E7
+Cd79b	B	cyan
